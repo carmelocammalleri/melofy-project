@@ -1,6 +1,6 @@
 @extends('layouts.guest')
 @section('content')
-<div class="bg-black w-100 text-white container text-center">
+<div class="text-white container text-center p-5">
 
     <h1>Melofy database</h1>
     <p>Aggiungi delle nuove canzoni tramite questo database digitale, per prima cosa fai il

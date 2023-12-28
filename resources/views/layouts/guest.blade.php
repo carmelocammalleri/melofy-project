@@ -8,6 +8,9 @@
     @vite(['resources/js/app.js'])
 </head>
 <body>
-    @yield('content')
+    <div class="container-guest">
+
+        @yield('content')
+    </div>
 </body>
 </html>

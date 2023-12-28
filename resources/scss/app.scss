@@ -1,5 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
 
+.container-guest{
+    height: 100vh;
+    background-color: #212529;
+}
 
 .aside-view-section{
     height: calc(100vh - 56px);

@@ -1,5 +1,9 @@
 @extends('layouts.admin')
 @section('content')
 
-<h1>Admin pagina</h1>
+<div class="d-flex aside-view-section">
+    @include('admin.partials.aside')
+    @include('admin.partials.view')
+</div>
+
 @endsection

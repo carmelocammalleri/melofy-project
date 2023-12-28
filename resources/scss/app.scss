@@ -1,1 +1,14 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+
+.aside-view-section{
+    height: calc(100vh - 56px);
+
+    aside{
+        width: 10%;
+    }
+
+    .view-section{
+        width: 90%;
+    }
+}
